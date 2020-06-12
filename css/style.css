@@ -3,7 +3,7 @@ body{
 }
 
 header {
-	background: #ffffff;
+	background: #555555;
 	padding: 20px 0;
 }
 
@@ -94,10 +94,22 @@ footer {
 	margin: 20px 0 0;
 }
 
-
+main {
+	width: 940px;
+	margin: 0 auto;
+	
+}
 
 form {
 	margin: 40px 0;
+	
+}
+
+form input {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
 }
 
 form label, form legend {
@@ -190,7 +202,7 @@ td, th {
 
 .mapa {
 	padding: 3em 0;
-	background: linear-gradient(#FEFEFE, #888888, #000000);
+	background: linear-gradient(#FEFEFE, #888888);
 }
 
 .mapa-conteudo {
