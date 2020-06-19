@@ -1,2 +1,2 @@
 # barbearia
-Ongoing project of a barber shop
+Projeto do site barbearia
